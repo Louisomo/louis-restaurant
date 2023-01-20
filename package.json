@@ -1,6 +1,6 @@
 {
-  "homepage": "https://louisomo.github.io/restaurant",
   "name": "louis-restaurant",
+  "homepage": "https://louisomo.github.io/louis-restaurant",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,7 +38,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
