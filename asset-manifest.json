@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/louis-restaurant/static/css/main.dc765f0d.css",
+    "main.js": "/louis-restaurant/static/js/main.5488a16e.js",
+    "static/media/meal.mp4": "/louis-restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/louis-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/laurels.png": "/louis-restaurant/static/media/laurels.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/louis-restaurant/static/media/findus.585c393ccd3671513743.png",
+    "static/media/menu.png": "/louis-restaurant/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/louis-restaurant/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/louis-restaurant/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/overlaybg.png": "/louis-restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gallery02.png": "/louis-restaurant/static/media/gallery02.932947ca5bbec06ae1ca.png",
+    "static/media/welcome.png": "/louis-restaurant/static/media/welcome.f2fd9a453f3e07a38910.png",
+    "static/media/chef.png": "/louis-restaurant/static/media/chef.3e5c314bcd374b5e80f6.png",
+    "static/media/gallery01.png": "/louis-restaurant/static/media/gallery01.684361a8857be0d10067.png",
+    "static/media/G.png": "/louis-restaurant/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/louis-restaurant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/louis-restaurant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/louis-restaurant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/louis-restaurant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/louis-restaurant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/louis-restaurant/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/louis-restaurant/index.html",
+    "static/media/spoon.svg": "/louis-restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.dc765f0d.css.map": "/louis-restaurant/static/css/main.dc765f0d.css.map",
+    "main.5488a16e.js.map": "/louis-restaurant/static/js/main.5488a16e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc765f0d.css",
+    "static/js/main.5488a16e.js"
+  ]
+}
